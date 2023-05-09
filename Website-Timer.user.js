@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Website Timer
-// @namespace    http://tampermonkey/
+// @namespace    https://github.com/aliffarzanzim/Userscripts
+// @author       aliffarzanzim
 // @version      1
 // @description  Displays a timer with how much time you've spent on a site
 // @match        http*://*/*
