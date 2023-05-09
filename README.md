@@ -1,5 +1,5 @@
 # Userscripts
-01. [Website-timer](https://github.com/aliffarzanzim/Userscripts/raw/master/Website-Timer.user.js) - Shows a timer in each page for how much time you have opened it for.
+01. [Website-timer](https://github.com/aliffarzanzim/Userscripts/raw/master/Website-Timer.user.js) - Displays a timer with how much time you've spent on a site.
 02. 
 ## installation
 
